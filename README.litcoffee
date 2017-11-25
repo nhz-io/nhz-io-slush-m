@@ -1,13 +1,13 @@
 # Module generator (@nhz.io scoped)
 
-[![Travis Build][travis]](https://travis-ci.org/nhz-io/nhz-io-slush-um)
-[![NPM Version][npm]](https://www.npmjs.com/package/@nhz.io/slush-um)
+[![Travis Build][travis]](https://travis-ci.org/nhz-io/nhz-io-slush-m)
+[![NPM Version][npm]](https://www.npmjs.com/package/@nhz.io/slush-m)
 
 
 ## Install
 
 ```bash
-npm i -g slush @nhz.io/slush-um
+npm i -g slush @nhz.io/slush-m
 ```
 
 ## Usage
@@ -106,5 +106,5 @@ slush @nhz.io/m
 ## Version 1.0.0
 ## License [MIT](LICENSE)
 
-[travis]: https://img.shields.io/travis/nhz-io/nhz-io-slush-um.svg?style=flat
-[npm]: https://img.shields.io/npm/v/@nhz.io/slush-um.svg?style=flat
+[travis]: https://img.shields.io/travis/nhz-io/nhz-io-slush-m.svg?style=flat
+[npm]: https://img.shields.io/npm/v/@nhz.io/slush-m.svg?style=flat

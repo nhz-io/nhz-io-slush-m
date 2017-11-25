@@ -1,5 +1,5 @@
 *
-!README.litcoffee
+!README.md
 !coffeelint.json
 !gulpfile.js
 !gulpfile.litcoffee
