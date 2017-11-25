@@ -1,7 +1,7 @@
 {
     "name": "@nhz.io/slush-m",
     "description": "Micro module generator (@nhz.io scoped)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "homepage": "https://github.com/nhz-io/nhz-io-slush-m",
     "author": {
         "name": "Ishi Ruy",
