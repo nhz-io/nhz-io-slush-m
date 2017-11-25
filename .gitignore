@@ -11,3 +11,4 @@
 !.editorconfig
 !templates
 !templates/*
+!templates/**/*
