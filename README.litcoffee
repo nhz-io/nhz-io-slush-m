@@ -89,7 +89,7 @@ slush @nhz.io/m
 > Generate package
 
       pump [
-        gulp.src __dirname + '/templates/**'
+        gulp.src __dirname + '/templates/**/*'
 
         template answers
 
@@ -103,7 +103,7 @@ slush @nhz.io/m
       ]
 
 
-## Version 1.0.1
+## Version 1.0.2
 ## License [MIT](LICENSE)
 
 [travis]: https://img.shields.io/travis/nhz-io/nhz-io-slush-m.svg?style=flat
