@@ -103,7 +103,7 @@ slush @nhz.io/m
       ]
 
 
-## Version 1.0.3
+## Version 1.0.4
 ## License [MIT](LICENSE)
 
 [travis]: https://img.shields.io/travis/nhz-io/nhz-io-slush-m.svg?style=flat
